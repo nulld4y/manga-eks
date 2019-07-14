@@ -1,6 +1,6 @@
 [
   {
-    "name": "Indiev: ComiCake",
+    "name": "Tachiyomi: ComiCake",
     "pkg": "eu.kanade.tachiyomi.extension.all.comicake",
     "apk": "tachiyomi-all.comicake-v1.2.3.apk",
     "lang": "all",
@@ -464,7 +464,7 @@
     "version": "1.2.1"
   },
   {
-    "name": "Tachiyomi: Komikcast",
+    "name": "MangaChan: Komikcast",
     "pkg": "eu.kanade.tachiyomi.extension.id.komikcast",
     "apk": "tachiyomi-id.komikcast-v1.2.2.apk",
     "lang": "id",
